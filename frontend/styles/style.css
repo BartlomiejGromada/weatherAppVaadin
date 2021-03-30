@@ -1,0 +1,72 @@
+html {
+    font-family: Helvetica, sans-serif;
+}
+
+body {
+    background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/07/Download-Weather-Wallpaper-Free.jpg");
+}
+
+.imageSearch {
+    width: 20vw;
+    height: 20vw;
+}
+
+.searchBox {
+    height: 80%;
+    background-color: black;
+    border-radius: 40px;
+    opacity: 0.9;
+}
+
+.searchTextField {
+    width: 80%;
+    background-color: #ffebeb;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.searchButton {
+    width: 20%;
+    height: 100%;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.searchButton:hover {
+    cursor: pointer;
+}
+
+.unitComboBox {
+    width: 20%;
+    min-width: 130px;
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    margin-right: 15%;
+    margin-left: auto;
+}
+
+
+/*
+******  Result box *******
+ */
+.resultBox {
+    height: 80%;
+    background-color: white;
+    color: black;
+    border-radius: 40px;
+    opacity: 0.9;
+    margin: 20px;
+}
+
+h1 {
+    font-size: 2vw;
+}
+
+h3 {
+    font-size: 1vw;
+}
+
+p {
+   font-size: 1vw;
+}
